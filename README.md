@@ -5,7 +5,9 @@
 
 My main skill is `Node.js(Typescript)`.
 
-I'm interested in `clean code` and `clean architecture`. Also, try to think from a `business perspective`.
+I'm interested in `clean code` and `clean architecture`.
+
+I think `why` is more important than `what`, so I try to develop that contains my thoughts and concerns.
 
 <br/>
 
