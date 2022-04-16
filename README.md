@@ -3,11 +3,9 @@
 
 ### Hello, I'm Jaehyun Kim!
 
-My main skill is `Node.js(Typescript)`.
+Node.js / React / AWS / Solidity
 
-I'm interested in `clean code` and `clean architecture`.
-
-I think `why` is more important than `what`, so I try to develop that contains my thoughts and concerns.
+DApp Developer and researcher of all things blockchain and Web 3.0
 
 <br/>
 
